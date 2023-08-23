@@ -16,8 +16,7 @@ BOAZ 21기 분석 미니프로젝트 1조 repository입니다.
 <br/>
 
 ## Team
-- 팀장: [김민경](https://github.com/yulleta/)
-- 팀원: [최유진](https://github.com/euvely/), [유수민](https://github.com/soo-minn), [채영대](https://github.com/oioing), [이혜연](https://github.com/Hyeyeonee)
+- [김민경](https://github.com/yulleta/),[최유진](https://github.com/euvely/), [유수민](https://github.com/soo-minn), [채영대](https://github.com/oioing), [이혜연](https://github.com/Hyeyeonee)
 
 <br/>
 
